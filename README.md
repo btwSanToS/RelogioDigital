@@ -16,4 +16,4 @@ Com o botão direito, clique em Open with Live Server.
 
 O tempo estará ali, esperando para ser desfrutado.
 
-![Relógio Digital](relogioDigital.png)
+![Relógio Digital]([relogioDigital.png](https://raw.githubusercontent.com/btwSanToS/RelogioDigital/master/assets/relogioDigital.png))
