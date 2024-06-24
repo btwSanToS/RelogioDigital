@@ -13,7 +13,8 @@ body {
     /*background: linear-gradient(120deg, #00ff2a, #0066ff);*/
     /*background: linear-gradient(120deg, #6157FF, #EE49FD);*/
     /*background: linear-gradient(120deg, #0700DE, #DDFFC9);*/
-    background: linear-gradient(120deg, #103CE7, #64E9FF);
+    /*background: linear-gradient(120deg, #103CE7, #64E9FF);*/
+    background: linear-gradient(120deg, #FF4066, #FFF16A);
     display: flex;
     align-items: center;
     justify-content: center;
