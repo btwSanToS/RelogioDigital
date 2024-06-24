@@ -11,6 +11,7 @@ body {
     /*Após estudos sobre Temas, realizarei modificações no código
     para encontrar melhores combinações*/
     /*background: linear-gradient(120deg, #00ff2a, #0066ff);*/
+    background: linear-gradient(120deg, #00ff2a, #0066ff);
     display: flex;
     align-items: center;
     justify-content: center;
